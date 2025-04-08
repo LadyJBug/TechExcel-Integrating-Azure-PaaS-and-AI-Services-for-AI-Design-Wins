@@ -68,7 +68,7 @@ var deployments = [
     }
     sku: {
       name: 'GlobalStandard'
-      capacity: 40
+      capacity: 8
     }
   }
   {
@@ -78,7 +78,7 @@ var deployments = [
       name: 'text-embedding-ada-002'
       version: '2'
     }
-    capacity: 120
+    capacity: 60
   }
 ]
 
